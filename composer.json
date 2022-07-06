@@ -1,5 +1,5 @@
 {
-  "name": "mediatoolkit/activecampaign-v3-php",
+  "name": "attract/activecampaign-v3-php",
   "description": "PHP Wrapper for ActiveCampaign",
   "minimum-stability": "dev",
   "require": {
