@@ -1,6 +1,7 @@
 {
   "name": "mediatoolkit/activecampaign-v3-php",
   "description": "PHP Wrapper for ActiveCampaign",
+  "minimum-stability": "dev",
   "require": {
     "guzzlehttp/guzzle": "^7.0.1"
   },
